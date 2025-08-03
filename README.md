@@ -1,6 +1,8 @@
 # Student Depression Prediction Using Deep Learning
 
-This project applies deep learning techniques to predict whether a student is experiencing depression, based on structured survey data. The model is trained on various academic, psychological, and lifestyle features to perform binary classification (Yes/No).
+This project was completed as part of my academic coursework for the M.Sc. in Data Science program at FH Kiel, Germany.
+
+The goal of the project is to apply deep learning techniques to predict whether a student is experiencing depression, based on structured survey data. The model is trained on various academic, psychological, and lifestyle features to perform binary classification (Yes/No).
 
 ## Project Highlights
 
